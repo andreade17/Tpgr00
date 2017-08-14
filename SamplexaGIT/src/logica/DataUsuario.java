@@ -18,8 +18,8 @@
 	        this.setCedulaIdentidad(new String());
 	    }
 
-	    public DataUsuario(String nom, String ape, String cI) {
-	        this.setNombre(nom);
+	    public DataUsuario(String nom1, String ape, String cI) {
+	        this.setNombre(nom1);
 	        this.setApellido(ape);
 	        this.setCedulaIdentidad(cI);
 	    }
