@@ -6,8 +6,8 @@ public class Usuario {
 	    private String apellido;
 	    private String cedulaIdentidad;
 
-	    public Usuario(String nom, String ape, String ci) {
-	        this.nombre = nom;
+	    public Usuario(String nom2, String ape, String ci) {
+	        this.nombre = nom2;
 	        this.apellido = ape;
 	        this.cedulaIdentidad = ci;
 	    }
