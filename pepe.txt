@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Ã±fjdkjdksljfkdsjflkd:::::W:W::W
 :wq
 
+=======
+jfkdsañjfkdsañjfkdjañf
+>>>>>>> funcionalidad
