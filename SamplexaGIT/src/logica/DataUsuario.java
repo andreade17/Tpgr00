@@ -18,10 +18,10 @@ public class DataUsuario {
         this.setCedulaIdentidad(new String());
     }
 
-    public DataUsuario(String nombre, String apellido, String cedulaIdentidad) {
-        this.setNombre(nombre);
-        this.setApellido(apellido);
-        this.setCedulaIdentidad(cedulaIdentidad);
+    public DataUsuario(String nom, String ape, String cI) {
+        this.setNombre(nom);
+        this.setApellido(ape);
+        this.setCedulaIdentidad(cI);
     }
 
     public String getNombre() {
