@@ -7,8 +7,8 @@ public class Propuesta {
 	        return  nombre;
 	    }
 	
-	public void setNombre(String nom) {
-	        nombre = nom;
+	public void setNombre(String nom1) {
+	        nombre = nom1;
 	    }
 	
 	
