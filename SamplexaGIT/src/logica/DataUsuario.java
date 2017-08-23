@@ -18,7 +18,7 @@ public class DataUsuario {
         this.setCedulaIdentidad(new String());
     }
 
-    public DataUsuario(String nombre, String apellido, String cedulaIdentidad) {
+    public DataUsuario(String nom, String ape, String cI) {
         this.setNombre(nombre);
         this.setApellido(apellido);
         this.setCedulaIdentidad(cedulaIdentidad);
